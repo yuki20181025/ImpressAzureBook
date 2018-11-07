@@ -45,6 +45,7 @@ az group deployment create -g azbook-dotnetiaas-rg --template-uri https://raw.gi
 
 ## 改訂履歴
 
+* 2018/11/05 test
 * 2017/12/11: OMS Agent for Linuxのバージョンを1.4へアップデート
 * 2017/12/11: サンプルパラメータのパスワード文字数を修正
 * 2017/12/09: NSGルールの修正
