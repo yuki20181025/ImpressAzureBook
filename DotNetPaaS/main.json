@@ -41,9 +41,9 @@
         },
         "skuName": {
             "type": "string",
-            "defaultValue": "F",
+            "defaultValue": "F1",
             "allowedValues": [
-                "F",
+                "F1",
                 "S1",
                 "S2",
                 "S3",
